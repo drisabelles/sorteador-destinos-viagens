@@ -12,18 +12,18 @@ lista_internacional_4 = ["Egito", "África do Sul", "Nigéria", "Quênia", "Gana
 
 lista_internacional_5 = ["Tonga", "Nova Zelândia", "Austrália", "Fiji", "Papua-Nova Guiné", "Estados Federados da Micronésia", "Samoa", "Palau", "Kiribati", "Ilhas Salomão", "Vanuatu", "Nauru", "Polinésia Francesa", "Nova Caledônia", "Tuvalu", "Guam", "Ilhas Marshall", "Ilhas Cook", "Samoa Americana", "Niue", "Ilhas Mariana do Norte", "Ilha Norfolk", "Wallis e Fortuna", "Ilhas Pitcairn"]
 
-escolha = int(input('Digite o código da operação que deseja realizar: \n1 - Sortear destino\n2 - Excluir destinho já realizado'))
+escolha = int(input('Digite o código da operação que deseja realizar: \n1 - Sortear destino\n2 - Excluir destinho já realizado\nR: '))
 
 if escolha == 1:
 
-    localidade = int(input('Digite o código da localidade da viagem que deseja sortear: \n1 - Nacional\n2 - Internacional\n'))
+    localidade = int(input('Digite o código da localidade da viagem que deseja sortear: \n1 - Nacional\n2 - Internacional\nR: '))
 
     if localidade == 1:
         sorteado = random.choice(lista_nacional)
         print('O estado sorteado foi: {}'.format(sorteado))
 
     else:
-        continente = int(input('Digite o código do continente no qual deseja sortear: \n1 - América\n2 - Europa\n3 - Ásia\n4 - África\n5 - Oceania\n'))
+        continente = int(input('Digite o código do continente no qual deseja sortear: \n1 - América\n2 - Europa\n3 - Ásia\n4 - África\n5 - Oceania\nR: '))
 
         if continente == 1:
             sorteado = random.choice(lista_internacional_1)
@@ -47,14 +47,14 @@ if escolha == 1:
             
 else:
 
-    escolha_exclusao = int(input('Digite o código da localidade do destino que deseja excluir: \n1 - Nacional\n2 - Internacional '))
+    escolha_exclusao = int(input('Digite o código da localidade do destino que deseja excluir: \n1 - Nacional\n2 - Internacional\nR: '))
 
     if escolha_exclusao == 1:
         destino = str(input('Digite o nome do destino que deseja excluir: '))
         lista_nacional.remove(destino)
 
     else:
-        continente = int(input('Digite o código do continente no qual deseja excluir um destino: \n1 - América\n2 - Europa\n3 - Ásia\n4 - África\n5 - Oceania\n'))
+        continente = int(input('Digite o código do continente no qual deseja excluir um destino: \n1 - América\n2 - Europa\n3 - Ásia\n4 - África\n5 - Oceania\nR: '))
         destino = str(input('Digite o nome do destino que deseja excluir: '))
 
         if continente == 1:
