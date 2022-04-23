@@ -51,7 +51,7 @@ Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimen
 <span id="organizacao">
 
 ## 🗂️ Organização
-A aplicação está contida em apenas um arquivo <kbd>.py</kbd> nomeado "sorteador-viagens".
+A aplicação está contida em apenas um arquivo <kbd>.py</kbd> nomeado "sorteador".
 
 <br />
   
@@ -59,7 +59,7 @@ A aplicação está contida em apenas um arquivo <kbd>.py</kbd> nomeado "sortead
 
 ## ⌨️ Como rodar
 ### Baixando o arquivo
-**Passo 1:** Fazer o download do arquivo <kbd>sorteador-viagens.py</kbd> contido nesse reposiório.
+**Passo 1:** Fazer o download do arquivo <kbd>sorteador.py</kbd> contido nesse reposiório.
 
 ### Instalação Python
 É necessário ter o Python (de preferência o mais recente) instalado em sua máquina.
