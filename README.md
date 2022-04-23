@@ -11,8 +11,8 @@
 
 <a href="#proposta">**PROPOSTA**</a> • 
 <a href="#tecnologias">**TECNOLOGIAS**</a> • 
-<a href="#progresso">**PROGRESSO**</a>• 
-<a href="#organizacao">**ORGANIZAÇÃO**</a>• 
+<a href="#progresso">**PROGRESSO**</a> • 
+<a href="#organizacao">**ORGANIZAÇÃO**</a> • 
 <a href="#como rodar">**COMO RODAR**</a>
 
 </div>
