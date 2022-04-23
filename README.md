@@ -71,7 +71,7 @@ A aplicação está contida em apenas um arquivo <kbd>.py</kbd> nomeado "sortead
 
 **Passo 2:** Digitar "cmd".
 
-**Passo 3:** Ao abrir uma tela preta, digitar "python sorteador-viagens.py".
+**Passo 3:** Ao abrir uma tela preta, digitar "python sorteador.py".
 
 **Passo 4:** Pronto! Utilize a aplicação.
 
