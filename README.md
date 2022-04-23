@@ -82,7 +82,9 @@ A aplicação está contida em apenas um arquivo <kbd>.py</kbd> nomeado "sortead
 
 **Passo 3:** Será aberta então a janela do IDLE Editor, onde então deve-se clicar no "Run" e então no "Run Module"; ou apenas apertar a tecla <kbd>F5</kbd>.
 
-**Passo 4:** Pronto! Utilize a aplicação.
+**Passo 4:** Na pasta em que escolheu salvar o arquivo baixado, selecione ele e clique em "abrir".
+  
+**Passo 5:** Pronto! Utilize a aplicação.
 
 <br />
 
