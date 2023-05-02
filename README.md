@@ -51,6 +51,7 @@ $ cd sorteador-destinos-viagens
 ## 🗂️ Organização das pastas <a name="folders"></a>
 
 ```bash
+📂 sorteador-destinos-viagens
 |- 📄 sorteador.py
 ```
 
