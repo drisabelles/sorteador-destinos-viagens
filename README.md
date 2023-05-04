@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛫 Sorteador de Viagens 🧳
+# 🛫🧳 Sorteador de Viagens 🧳🛫
 
 </div>
 
